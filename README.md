@@ -1,5 +1,7 @@
 Contrast: The platformer where the level hides in plain sight.
 
+Simple Deploy available @: https://contrastonline.netlify.app/
+
 The game’s main mechanic is its colors. Right now, the background is white, and the black platforms ahead of the player stick out from the background. 
 
 When you press a key, you can change swap the background color. Platforms that bend in to the background color disappear from the level, and we just and can pass right through them!
